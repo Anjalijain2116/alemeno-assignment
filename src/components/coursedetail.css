@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+}
+.head{
+    padding-top: 20px;
+    padding-left: 15px;
+    padding-bottom: 20px;
+    background-color: grey;
+}
+.F1{
+    /* color: pink; */
+}
+.container{
+    border: 1px solid black;
+    padding: 10px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
